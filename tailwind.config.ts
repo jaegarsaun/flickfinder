@@ -15,6 +15,7 @@ const config: Config = {
       },
       colors: {
         'dark': '#0e0e28',
+        'extraDark': '#03001C',
         'primary': '#FA58B6',
         
       },
