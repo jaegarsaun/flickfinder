@@ -1,4 +1,4 @@
-import GameSettingsWidget from "../components/GameSettingsWidget"
+import GameSettingsWidget from "../../components/GameSettingsWidget"
 
 export default function Page() {
     return(
