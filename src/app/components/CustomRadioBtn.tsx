@@ -8,7 +8,7 @@ type CustomRadioBtnProps = {
   
   export default function CustomRadioBtn({ name, value, label, checked, onChange }: CustomRadioBtnProps) {
     return (
-      <label className='text-white flex gap-2 block relative cursor-pointer items-center justify-center'>
+      <label className='text-white flex gap-2 relative cursor-pointer items-center justify-center'>
         <input 
           type='radio' 
           name={name} 
